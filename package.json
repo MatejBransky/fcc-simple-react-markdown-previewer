@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "fcc-simple-react-markdown-previewer",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp project: A Simple React Markdown Previewer",
+  "main": "index.js",
+  "repository": "git@github.com:MatejBransky/fcc-simple-react-markdown-previewer.git",
+  "author": "Matej Bransky",
+  "license": "MIT"
+}
