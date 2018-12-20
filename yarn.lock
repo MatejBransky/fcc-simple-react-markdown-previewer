@@ -3266,6 +3266,11 @@ osenv@^0.1.4:
     os-homedir "^1.0.0"
     os-tmpdir "^1.0.0"
 
+outdent@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/outdent/-/outdent-0.7.0.tgz#cfd1f1956305141e0cf3e898ada6547373c1997a"
+  integrity sha512-Ue462G+UIFoyQmOzapGIKWS3d/9NHeD/018WGEDZIhN2/VaQpVXbofMcZX0socv1fw4/tmEn7Vd3McOdPZfKzQ==
+
 pako@^0.2.5:
   version "0.2.9"
   resolved "https://registry.yarnpkg.com/pako/-/pako-0.2.9.tgz#f3f7522f4ef782348da8161bad9ecfd51bf83a75"
